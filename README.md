@@ -23,6 +23,8 @@ dynamic) in any part of the map.
 
 ![](media/929876af2de054b9f5dce71e69ae83cd.png)
 
+![](media/dcf8febbc83cee2bca80c1b490e850c9.png)
+
 The coordinates, types, and sizes of these objects and maps are saved into a
 file.
 
@@ -141,3 +143,5 @@ learning our hero’s angle, it changes our hero’s angle.
 ![](media/debf0d071ae4935875b4dca263a45aed.png)
 
 ![keys](media/d2736fe396080cad87d11d57b5e25efc.jpg)
+
+keys
